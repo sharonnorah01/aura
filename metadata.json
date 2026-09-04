@@ -1,0 +1,6 @@
+{
+  "name": "AURA Modern eCommerce",
+  "description": "Responsive eCommerce website with product grid layout, shopping cart drawer, and backend database synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
